@@ -1,9 +1,17 @@
 body {
-	background-color: #1e66aa;
+	background-color: #072b4b;
 	color:white;
 	text-align:center;
-	padding-top:150px;
-	font-family:futura;
+	padding-top:50px;
+	font-family:futura, Helvetica, Arial, serif;
+}
+
+.odevs-logo {
+	margin: 10px auto 50px;
+	max-width: 90%;
+	height: auto;
+	border: none;
+	display: block;
 }
 
 input[type="text"]{
@@ -14,7 +22,7 @@ input[type="text"]{
 	text-align:center;
 	color:#7cb5e9;
 	margin: 0 30px;
-	font-family: futura;
+	font-family: futura, Helvetica, Arial, serif;
 }
 
 .randomize{
@@ -24,10 +32,10 @@ input[type="text"]{
 .randomize button{
 	height:125px;
 	width:450px;
-	background-color:#7cb5e9;
-	color:white;
+	background-color:#a4c8d9;
+	color:#072b4b;
 	font-size:42pt;
-	font-family:futura;
+	font-family:futura, Helvetica, Arial, serif;
 	border:0;
 	outline:0;
 	border-radius:5px;
